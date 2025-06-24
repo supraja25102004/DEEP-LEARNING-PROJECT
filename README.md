@@ -97,6 +97,79 @@ A sequential CNN model with the following layers:
 
 To demonstrate how a basic CNN can learn to classify real-world images into predefined categories, and to visualize both performance metrics and actual predictions.
 
+## Required Libraries:
+
+Make sure you have the following Python packages installed:
+
+     tensorflow
+
+     numpy
+
+     matplotlib
+
+You can install them all at once using:
+
+    pip install tensorflow numpy matplotlib
+
+### requirements.txt
+
+tensorflow==2.15.0     # or latest stable version
+
+numpy
+
+matplotlib
+
+Then install using:
+
+     pip install -r requirements.txt
+
+## How to Run the Code:
+
+1.Install the above libraries and dependencies
+
+2.Run the script:
+
+    python main.py
+
+This will:
+
+Download the CIFAR-10 dataset
+
+Train the CNN model
+
+Show training progress
+
+Evaluate the model
+
+Display example predictions
+
+3.Output:
+
+Training and validation accuracy/loss graphs
+
+Test accuracy
+
+Visual predictions for first 10 test images
+
+## Applications:
+
+This project forms the foundation for:
+
+1.Object detection systems
+
+2.Autonomous vehicles (vision)
+
+3.Mobile image classification apps
+
+4.AI-based quality control
+
+
+
+
+
+
+
+
 
 
 
