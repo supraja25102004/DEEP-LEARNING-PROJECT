@@ -1,3 +1,4 @@
+
 # DEEP-LEARNING-PROJECT
 *COMPANY*: CODETECH IT SOLUTIONS
 
@@ -162,6 +163,10 @@ This project forms the foundation for:
 3.Mobile image classification apps
 
 4.AI-based quality control
+
+## OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/a344e22f-601c-439f-a333-cf83b88e5e7d)
 
 
 
